@@ -1,0 +1,49 @@
+/* your styles go here */
+.intro h1{
+font-size: 3,5vmax !important;
+
+}
+
+.intro p
+{
+	font-size: 4vmax !important;
+	align-content:center !important ;
+}
+
+ .text{
+background-color:   #333 !important;
+ 	background-size: auto;
+	
+	color: rgb(255,255,255) !important;
+}
+.text h2 ,.text p{
+color: rgb(255,255,255) !important;
+}
+
+#services{
+	background-color: #424949 !important;
+}
+
+#services .container ,p,h2,h3,h4,h5{
+
+
+color:rgb(255,255,255)!important;
+}
+.gallery{
+
+
+background-color: #27a69f !important;
+
+}
+
+section .down-arrow{
+	display: block;
+
+font-size: 3em;
+}
+
+.header{
+position: fixed !important;
+
+
+}
